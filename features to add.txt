@@ -1,0 +1,11 @@
+confirm email functionality
+
+
+
+self profile page view (like reddit home page)
+user page view
+self user page view
+post view
+post create view
+
+profile settings page
