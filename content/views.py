@@ -13,6 +13,12 @@ posts = [
         'author': 'me2',
         'date_posted': 'march 2, 2020',
         'content': 'second photo would go here',
+    },
+    {
+        'title': 'third post',
+        'author': 'me3',
+        'date_posted': 'march 4, 2020',
+        'content': 'third photo here',
     }
 ]
 
