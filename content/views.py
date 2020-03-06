@@ -1,5 +1,5 @@
 from django.shortcuts import render
-# Create your views here.
+from .models import Post
 
 posts = [
     {
@@ -24,6 +24,8 @@ posts = [
 
 context = {
     'posts': posts
+    #When posts created
+    #'posts': Post.object.all()
 }
 
 

@@ -9,3 +9,9 @@ post view
 post create view
 
 profile settings page
+
+Requirements so far
+
+Django
+Pillow
+django-crispy-forms
